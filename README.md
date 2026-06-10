@@ -1,8 +1,12 @@
 # Jeopardy!
 
-To use this, run
+To install the necessary dependencies, run
 ```console
 $ npm install
+```
+
+To run the web server locally, run
+```console
 $ npm start
 ```
 
