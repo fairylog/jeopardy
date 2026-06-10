@@ -1,0 +1,28 @@
+categories:
+  Category A:
+    A100:
+      q: |-
+        This is the question.
+      a: |-
+        This is the answer.
+    A200:
+      q: |-
+        This this the second question.
+      a: |-
+        This is the answer.
+  Category B:
+    B100:
+      q: |-
+        This is the question.
+      a: |-
+        This is the answer.
+    B200:
+      q: |-
+        This this the second question.
+      a: |-
+        This is the answer.
+final:
+  q: |-
+    This is the Final Jeopardy.
+  a: |-
+    This is the answer.
